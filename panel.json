@@ -1,0 +1,15 @@
+{
+  "logo_url": "https://meusite.com/logo.png",
+  "users": [
+    {"username": "admin", "password": "1234"},
+    {"username": "cliente1", "password": "senha123"}
+  ],
+  "servers": [
+    {"name": "Servidor 1", "dns": "http://123.45.67.89:8080"},
+    {"name": "Servidor 2", "dns": "http://98.76.54.32:8080"}
+  ],
+  "channels": [
+    {"name": "Canal 1", "url": "http://123.45.67.89:8080/stream1"},
+    {"name": "Canal 2", "url": "http://98.76.54.32:8080/stream2"}
+  ]
+}
